@@ -15,8 +15,6 @@ If you’d like to contribute to this project, reach out to me on LinkedIn or [D
 
 [DevOps Tools](https://github.com/robert-kvam/cheat-sheets/tree/main/devops)
 
-[Development](https://github.com/robert-kvam/cheat-sheets/tree/main/devtools)
-
 [Infrastructure](https://github.com/robert-kvam/cheat-sheets/tree/main/infrastructure)
 
 [Linux](https://github.com/robert-kvam/cheat-sheets/tree/main/linux)
